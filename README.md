@@ -27,3 +27,46 @@ To run or compile this project locally, you will need:
 Check if you have Java installed by running:
 ```bash
 java -version
+🚀 How to Set Up & Run
+1. Clone the Repository
+Bash
+
+git clone [https://github.com/Nikesh-Acharya-10/Simple-Calculator.git](https://github.com/Nikesh-Acharya-10/Simple-Calculator.git)
+cd Simple-Calculator
+
+2. Compile the Code
+Bash
+
+javac Calculator.java
+
+3. Run the Application
+Bash
+
+java Calculator
+
+📂 Project Structure
+Plaintext
+
+Simple-Calculator/
+├── docs/                      # Documentation files
+├── src/                       # Source files directory
+├── .gitignore                 # Files ignored by Git
+├── Calculator.java            # Main application logic & GUI implementation
+├── CONTRIBUTING.md            # Guidelines for contributing to this project
+├── pull_request_template.md   # Template used for GitHub Pull Requests
+└── README.md                  # Project overview and instructions
+
+💻 Tech Stack
+
+    Language: Java
+
+    UI Framework: Java Swing (javax.swing)
+
+    Event Handling: Java AWT (java.awt.event)
+
+🤝 Contributing
+
+Contributions are welcome! Please read through CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests using our Pull Request Template.
+📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
