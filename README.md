@@ -25,7 +25,7 @@ To run or compile this project locally, you will need:
 - **Java Development Kit (JDK):** Version 8 or higher installed on your system.
 
 Check if you have Java installed by running:
-```bash
+
 java -version
 🚀 How to Set Up & Run
 1. Clone the Repository
@@ -43,7 +43,7 @@ javac Calculator.java
 Bash
 
 java Calculator
-
+bash```
 📂 Project Structure
 Plaintext
 
